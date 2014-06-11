@@ -7,7 +7,12 @@
 ##2014
 
 ### 翻译作品
-- `HTTP API 设计指南` [http://blog.cocoajin.org/pub/2014/http-api-设计指南.html](http://blog.cocoajin.org/pub/2014/http-api-设计指南.html)
+
+- 14-06-11 `HTTP API 设计指南` [http://blog.cocoajin.org/pub/2014/http-api-设计指南.html](http://blog.cocoajin.org/pub/2014/http-api-设计指南.html)
+
+### 笔记
+
+- 14-06-11 `apple_app_所需图标大小及命名` [http://blog.cocoajin.org/pub/2014/apple_app_所需图标大小及命名.html](http://blog.cocoajin.org/pub/2014/apple_app_所需图标大小及命名.html)
 
 ###About me
 
