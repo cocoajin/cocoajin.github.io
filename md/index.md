@@ -1,8 +1,13 @@
-blog for cocoajin
-=================
+# blog for cocoajin
+
 > [http://blog.cocoajin.org](http://blog.cocoajin.org/)
 
 > Just coding.
+
+##2014
+
+### 翻译作品
+- `HTTP API 设计指南` [http://blog.cocoajin.org/pub/2014/http-api-设计指南.html](http://blog.cocoajin.org/pub/2014/http-api-设计指南.html)
 
 ###About me
 
