@@ -13,7 +13,13 @@
 
 ### 笔记
 
-- [git](http://blog.cocoajin.org/pub/2014/git.html)  、 [vim](http://blog.cocoajin.org/pub/2014/vim.html) 、 [apt-get](http://blog.cocoajin.org/pub/2014/apt-get.html)
+- [git](http://blog.cocoajin.org/pub/2014/git.html)  、 
+  [vim](http://blog.cocoajin.org/pub/2014/vim.html) 、 
+  [apt-get](http://blog.cocoajin.org/pub/2014/apt-get.html) 、
+  [iterm2](http://blog.cocoajin.org/pub/2014/iterm2.html)
+
+
+
 - 14-06-11 `apple_app_所需图标大小及命名` [http://blog.cocoajin.org/pub/2014/apple_app_所需图标大小及命名.html](http://blog.cocoajin.org/pub/2014/apple_app_所需图标大小及命名.html)
 
 ###About me
