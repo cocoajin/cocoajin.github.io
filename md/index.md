@@ -1,8 +1,6 @@
 # blog for cocoajin
 
-> [http://blog.cocoajin.org](http://blog.cocoajin.org/)  、
-> [http://wiki.cocoajin.org](http://wiki.cocoajin.org)
-
+> [http://blog.cocoajin.org](http://blog.cocoajin.org/)  
 > Just coding.
 
 ##2014
@@ -21,6 +19,8 @@
 
 
 - 14-06-11 `apple_app_所需图标大小及命名` [http://blog.cocoajin.org/pub/2014/apple_app_所需图标大小及命名.html](http://blog.cocoajin.org/pub/2014/apple_app_所需图标大小及命名.html)
+- 14-10-29 `openssl 基础，CA基础，数字证书、数字签名、数字信封等` [http://blog.cocoajin.org/pub/2014/opensslNotes.html](http://blog.cocoajin.org/pub/2014/opensslNotes.html)
+
 
 ###About me
 
