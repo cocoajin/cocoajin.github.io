@@ -14,7 +14,9 @@
 - [git](http://blog.cocoajin.org/pub/2014/git.html)  、 
   [vim](http://blog.cocoajin.org/pub/2014/vim.html) 、 
   [apt-get](http://blog.cocoajin.org/pub/2014/apt-get.html) 、
-  [iterm2](http://blog.cocoajin.org/pub/2014/iterm2.html)
+  [iterm2](http://blog.cocoajin.org/pub/2014/iterm2.html)、
+  [yum](http://blog.cocoajin.org/pub/2014/yum-rpm.html)、
+
 
 
 
@@ -26,5 +28,4 @@
 
 - `github` [https://github.com/cocoajin](https://github.com/cocoajin)
 - `cnblogs` [http://cnblogs.com/cocoajin](http://cnblogs.com/cocoajin)
-- `scriptogr.am` [http://t.cocoajin.org/](http://t.cocoajin.org/)
-- `E-mail` dev.keke@gmail.com
+- `E-mail` me@cocoajin.org
