@@ -16,6 +16,7 @@
   [apt-get](http://blog.cocoajin.org/pub/2014/apt-get.html) 、
   [iterm2](http://blog.cocoajin.org/pub/2014/iterm2.html)、
   [yum](http://blog.cocoajin.org/pub/2014/yum-rpm.html)、
+  [bash](http://blog.cocoajin.org/pub/2014/bash.html)、
 
 
 
